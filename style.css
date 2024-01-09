@@ -1,19 +1,22 @@
 header {
-  background-color: lightgray
+  background-color: white
 } 
 body { } 
 h1 {
-color: navy;
+color: darkgray;
 text-align: center;
 font-weight: 400;
 font-weight: bold;
 }
 h2 {
-color: navy
+color: darkgray;
 text-align: center;
 font-weight: 200;
 font-weight: bold;
 }
-nav { } 
+nav {
+  color: blue;
+  text-align: left;
+} 
 
 ol {}
