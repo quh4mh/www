@@ -17,6 +17,7 @@ font-weight: bold;
 nav {
   color: blue;
   text-align: left;
+    border: dashed;
 } 
 
 ol {}
