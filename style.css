@@ -1,20 +1,28 @@
-header {
-  background-color: white
-} 
-body { } 
+
 h1 {
-color: darkgray;
+color: black;
 text-align: center;
 font-weight: 400;
 font-weight: bold;
 }
-nav {
-  color: blue;
-  text-align: left;
-  outline-style: solid;  
-} 
+
+.navbar ul{
+    list-style-type: none;
+    background-color: darkgray;
+    padding: 0px;
+    margin: 0px;
+}
+    
+.navbar a{
+    color:aliceblue;
+    padding: 15px;
+    display:block;
+    text-align: center;      
+}
+
+ 
 h2 {
-color: darkgray;
+color: black;
 text-align: center;
 font-weight: 200;
 font-weight: bold;
