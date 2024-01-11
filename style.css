@@ -1,21 +1,21 @@
 
 h1 {
 color: black;
-text-align: center;
+text-align: left;
 font-weight: 400;
 font-weight: bold;
 }
 
 .navbar ul{
     list-style-type: none;
-    background-color: darkgray;
+    background-color: #cee6fe;
     padding: 0px;
     margin: 0px;
     overflow: hidden;
 }
     
 .navbar a{
-    color:aliceblue;
+    color:navy;
     padding: 15px;
     display:block;
     text-align: center;      
@@ -28,7 +28,7 @@ font-weight: bold;
  
 h2 {
 color: black;
-text-align: center;
+text-align: left;
 font-weight: 200;
 font-weight: bold;
 }
