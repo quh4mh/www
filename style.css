@@ -8,16 +8,25 @@ text-align: center;
 font-weight: 400;
 font-weight: bold;
 }
+nav {
+  color: blue;
+  text-align: left;
+  outline-style: solid;  
+} 
 h2 {
 color: darkgray;
 text-align: center;
 font-weight: 200;
 font-weight: bold;
 }
-nav {
-  color: blue;
-  text-align: left;
-  outline-style: solid;  
-} 
+
+h3{ }
 
 ol {}
+
+h4{
+color: black
+text-align: center
+}
+
+
