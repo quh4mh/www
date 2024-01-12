@@ -2,7 +2,7 @@
 h1 {
 color: black;
 text-align: left;
-font-weight: 400;
+font-size: 400;
 font-weight: bold;
 }
 
@@ -29,7 +29,7 @@ font-weight: bold;
 h2 {
 color: black;
 text-align: left;
-font-weight: 200;
+font-size: 200;
 font-weight: bold;
 }
 
@@ -39,7 +39,7 @@ ol {}
 
 h4{
 color: black
-text-align: center
+text-align: left
 }
 
 
