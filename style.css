@@ -19,11 +19,11 @@ font-weight: bold;
     padding: 15px;
     display:block;
     text-align: center; 
-    font-size: 30px;
 }
 
 .navbar li{
     float:left;
+    font-size: 30px;
 }
 
  
